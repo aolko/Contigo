@@ -9,7 +9,7 @@
 ![Minecraft v1.7.10][mc]
 ![Java JDK v1.8][java]
 ![Spigot 1.7.10 Snapshot ][spigot]-->
-
+---
 ![Minecraft Forge](https://img.shields.io/badge/Forge-1.12.2--14.23.1.2554-green.svg)
 ![Minecraft 1.12.2](https://img.shields.io/badge/Minecraft-1.12.2-green.svg)
 ---
